@@ -7,7 +7,7 @@ import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;
 
 @DataR2dbcTest
-public class orderRepositoryTest {
+public class OrderRepositoryTest {
 
     @Autowired
     private OrderRepository orderRepository;

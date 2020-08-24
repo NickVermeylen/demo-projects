@@ -3,7 +3,7 @@ package com.nckvrmyln.producer;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class orderCreationTest {
+public class OrderCreationTest {
 
     @Test
     public void orderCreationTest() {
